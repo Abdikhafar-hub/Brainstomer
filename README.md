@@ -1,6 +1,6 @@
 # React Card Matching Project
 
-Welcome to my React card matching project, [Mind Match](https://mind-match.vercel.app/)! This is a simple but 'challenging' game where the player must match pairs of cards with the same image. 
+Welcome to my React card matching project,  This is a simple but 'challenging' game where the player must match pairs of cards with the same image. 
 
 ## Installation
 
@@ -9,9 +9,9 @@ To get started with this project, you'll need to have Node.js and npm installed 
 Then, clone the repository and install the dependencies:
 
 ```
-git clone https://github.com/gateremark/mind-match.git
-```
 
+```
+https://github.com/Abdikhafar-hub/Brainstomer
 ```
 cd mind-match
 ```
